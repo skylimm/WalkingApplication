@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/posting"
+        android:title="Posting"
+        android:icon="@drawable/posting_icon"/>
+    <item android:id="@+id/route_sug"
+        android:title="Route suggestor"
+        android:icon="@drawable/route_sug_icon"/>
+    <item android:id="@+id/route_hist"
+        android:title="Route history"
+        android:icon="@drawable/route_hist_icon"/>
+    <item android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/profile_icon"/>
+
+</menu>
